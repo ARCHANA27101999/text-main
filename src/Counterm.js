@@ -9,6 +9,7 @@ function Counterm() {
       <div >
        child component
        <h1>hvh</h1>
+       <h2>hbhjvbjh</h2>
 
 
 
