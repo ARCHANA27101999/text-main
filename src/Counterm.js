@@ -10,6 +10,7 @@ function Counterm() {
        child component
        <h1>hvh</h1>
        <h2>hbhjvbjh</h2>
+       <h6>bhvg</h6>
 
 
 
