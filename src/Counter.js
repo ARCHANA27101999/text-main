@@ -9,6 +9,7 @@ function Counter(props) {
     return (
       <div >
         <button onClick={props.increment}>add</button>
+        <button>added</button>
        
       </div>
     );
